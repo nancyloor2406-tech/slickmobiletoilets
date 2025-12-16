@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. What is the typical porta potty rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The porta potty rental prices can vary based on several factors, including the type of unit you choose (standard, deluxe, luxury trailer), the duration of the rental, the frequency of service, and the delivery location. For an accurate quote tailored to your specific needs, please contact us directly. We pride ourselves on transparent pricing with no hidden fees.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">2. How many portable toilets do I need for my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A general rule of thumb is one portable restroom for every 50 people for a four-hour event. However, this can change if alcohol is being served, as that typically increases usage by about 20-30%. For longer events or construction sites, we recommend discussing your specific situation with our team to ensure adequate facilities and a proper service schedule.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">3. How often are the portable restrooms serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental agreement for long-term rentals, such as on construction sites, includes weekly service. This service involves pumping the waste tank, cleaning and sanitizing the interior, restocking toilet paper and hand sanitizer, and addressing any maintenance issues. For special events, service schedules can be customized to your needs, including on-site attendants for large gatherings.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">4. Can I rent a portable toilet for just one day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely! We offer one day porta potty rental options for parties, small events, and any other short-term need. Whether you need a single unit for a backyard BBQ or several for a local 5k race, we can provide a flexible and affordable portable potty rental solution.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">5. I'm worried about a porta potty at my wedding. What are my options?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A standard porta potty at wedding events is a major risk to the guest experience. We highly recommend our luxury portable restroom trailer, which functions and feels like an upscale indoor bathroom, eliminating that risk entirely.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
